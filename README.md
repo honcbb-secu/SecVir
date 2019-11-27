@@ -4,6 +4,10 @@ SecVir 軟體程式是由[Honc](https://blog.honcbb.me/) 安全研究人員開�
 
 ![image](https://i.imgur.com/P1hyaFy.jpg)
 
+[![Release](https://img.shields.io/badge/%E7%89%88%E6%9C%AC-V1.0-green)](https://github.com/honcbb-secu/SecVir/releases)
+
+[![Release](https://img.shields.io/badge/%E9%BB%9E%E6%88%91-%E4%B8%8B%E8%BC%89-brightgreen)](https://github.com/honcbb-secu/SecVir/releases/download/V1.0/SecVir.zip)
+
 
 ## Demo
 
@@ -64,7 +68,7 @@ SecVir 掃描則使用**VirusTotal API**  來查詢而返回響應分析的結�
  
   → 『SecVir 是使用Google 旗下反病毒權威線上產品 VirusTotal 之服務，因此所有報告結果都是與VirusTotal 準確可信。 』
   
-* 一定要連線才能開啟程式(掃描)？ ? 
+* 一定要連線才能開啟程式(掃描) ? 
  
   → 『是的，程式掃描所有資訊都需送往VirusTotal 系統搜尋，然而必須連網才能。 』
   
