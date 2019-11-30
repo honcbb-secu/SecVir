@@ -4,9 +4,9 @@ SecVir 軟體程式是由[Honc](https://blog.honcbb.me/) 安全研究人員開�
 
 ![image](https://i.imgur.com/P1hyaFy.jpg)
 
-[![Release](https://img.shields.io/badge/%E7%89%88%E6%9C%AC-V1.0-green)](https://github.com/honcbb-secu/SecVir/releases)
+[![Release](https://img.shields.io/badge/%E7%89%88%E6%9C%AC-V1.1-green)](https://github.com/honcbb-secu/SecVir/releases)
 
-[![Release](https://img.shields.io/badge/%E9%BB%9E%E6%88%91-%E4%B8%8B%E8%BC%89-brightgreen)](https://github.com/honcbb-secu/SecVir/releases/download/V1.0/SecVir.zip)
+[![Release](https://img.shields.io/badge/%E9%BB%9E%E6%88%91-%E4%B8%8B%E8%BC%89-brightgreen)](https://github.com/honcbb-secu/SecVir/releases/download/V1.1/SecVir.zip)
 
 
 ## Demo
